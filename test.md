@@ -1,3 +1,3 @@
 wikitest
 ========
-[test](/)
+[test](/readme.md)
